@@ -1,5 +1,5 @@
 {
-  "name": "@ozluy/eslint-config-cleo-one",
+  "name": "eslint-config-cleo-one",
   "version": "1.0.0",
   "description": "CLEO.one ESLint settings",
   "main": "index.js",
@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/ozluy/eslint-config-cleo-one/issues"
   },
-  "homepage": "https://github.com/ozluy/eslint-config-cleo-one#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/ozluy/eslint-config-cleo-one"
-  }
+  "homepage": "https://github.com/ozluy/eslint-config-cleo-one#readme"
 }
