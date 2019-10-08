@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-cleo-one",
+  "version": "1.0.0",
+  "description": "CLEO.one ESLint settings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleo-one/eslint-config-cleo-one.git"
+  },
+  "keywords": [
+    "eslint",
+    "linter",
+    "lint",
+    "js",
+    "javascipt",
+    "development",
+    "cleo.one"
+  ],
+  "author": "Yusuf Ozlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleo-one/eslint-config-cleo-one/issues"
+  },
+  "homepage": "https://github.com/cleo-one/eslint-config-cleo-one#readme"
+}
