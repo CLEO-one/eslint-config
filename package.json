@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-cleo-one",
+  "name": "@cleo.one/eslint-config",
   "version": "1.0.0",
   "description": "CLEO.one ESLint settings",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ozluy/eslint-config-cleo-one.git"
+    "url": "git+https://github.com/cleo-one/eslint-config.git"
   },
   "keywords": [
     "eslint",
@@ -22,7 +22,8 @@
   "author": "Yusuf Ozlu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ozluy/eslint-config-cleo-one/issues"
+    "url": "https://github.com/cleo-one/eslint-config/issues"
   },
-  "homepage": "https://github.com/ozluy/eslint-config-cleo-one#readme"
+  "homepage": "https://github.com/cleo-one/eslint-config#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
